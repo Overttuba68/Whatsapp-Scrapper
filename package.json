@@ -1,0 +1,17 @@
+{
+  "name": "whatsapp-scrapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scrapper.js",
+  "type": "module",
+  "scripts": {
+   "start": "node scrapper.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chromedriver": "^127.0.0",
+    "selenium-webdriver": "^4.23.0"
+  }
+}
